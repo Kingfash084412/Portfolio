@@ -1,0 +1,20 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Kingfash084412/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingfash084412/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Kingfash084412/Portfolio#readme"
+}
