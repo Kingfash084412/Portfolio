@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="![OF FR](https://github.com/Kingfash084412/Hello-Microverse/assets/104295046/6fdef5de-efc7-4d4b-a223-907cc516695e)"  />
+  <img src="![OF FR](https://github.com/Kingfash084412/Portfolio/assets/104295046/6fdef5de-efc7-4d4b-a223-907cc516695e)"  />
   <br/>
 
   <h3><b>Portfolio</b></h3>
